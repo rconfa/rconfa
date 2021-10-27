@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-My name is Riccardo, I am currently in my first master’s degree year of studying Data Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it/). 
+My name is Riccardo, I am currently in my second master’s degree year of studying Data Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it/). 
 Here you can find some of my projects that I worked on during my studies. 
 Feel free to contact me for any request or information at riccardoconfalonieri98@gmail.com
 <p align="center"> 
