@@ -22,7 +22,7 @@ Feel free to contact me for any request or information at riccardoconfalonieri98
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rconfa.rconfa" alt="visitor badge"/>
 </p><br>
 
-&nbsp;&nbsp;• Main interests: _Machine Learning_, _Social media Analysis_ and _Efficient algorithms_. <br>
+&nbsp;&nbsp;• Main interests: _Machine Learning_, _Deep learning_ and _Efficient algorithms_. <br>
 &nbsp;&nbsp;• Background: Bachelor's Degree in _Computer Science_.
 
 
