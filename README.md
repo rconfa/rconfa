@@ -23,7 +23,7 @@ Feel free to contact me for any request or information at riccardoconfalonieri98
 </p><br>
 
 &nbsp;&nbsp;• Main interests: _Machine Learning_, _Deep learning_ and _Efficient algorithms_. <br>
-&nbsp;&nbsp;• Background: Bachelor's Degree in _Computer Science_.
+&nbsp;&nbsp;• Background: Master Degree in Data Science and Bachelor's Degree in _Computer Science_.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rconfa&layout=compact)
